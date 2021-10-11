@@ -3,7 +3,6 @@ package main
 import (
 	"context"
 	"log"
-	"strings"
 	"time"
 
 	pb "example.com/go-usermgmt-grpc/usermgmt"
